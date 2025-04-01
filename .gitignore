@@ -1,0 +1,3 @@
+cvenv/
+01_image_classification_cnn/data/
+01_image_classification_cnn/cifar_net.pth
